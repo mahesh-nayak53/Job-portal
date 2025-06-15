@@ -48,7 +48,7 @@ npm start
 ## 🙋‍♂️ Author
 
 **Mahesh Nayak**  
-- GitHub: [@mahesh-nayak](https://github.com/mahesh-nayak)  
-- LinkedIn: [Mahesh Nayak](https://www.linkedin.com/in/mahesh-nayak)  
-- Email: maheshnayak.dev@gmail.com
+- GitHub: [@mahesh-nayak](https://github.com/mahesh-nayak53)  
+- LinkedIn: [Mahesh Nayak](https://www.linkedin.com/in/mahesh-nayak-008159281/)  
+- Email: maheshnayakgvt06@gmail.com
 
