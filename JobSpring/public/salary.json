@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Warehouse Associate",
+    "salary": "Average Salary $3K–$3.6K per year",
+    "status": "Job Openings",
+    "skills": ["Forklift Operation", "Inventory Management", "Order Processing"]
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "salary": "Average Salary $3.6K–$4.8K per year",
+    "status": "Job Openings",
+    "skills": ["Node.js", "Express.js", "MongoDB", "API Development", "RESTful Services"]
+  },
+  {
+    "id": 3,
+    "title": "Front Desk Agent",
+    "salary": "Average Salary $3.6K–$4.2K per year",
+    "status": "Job Openings",
+    "skills": ["Customer Service", "Phone Handling", "Booking Management", "Problem-Solving"]
+  },
+  {
+    "id": 4,
+    "title": "Crew Member",
+    "salary": "Average Salary $3.6K–$4.8K per year",
+    "status": "Job Openings",
+    "skills": ["Teamwork", "Food Preparation", "Customer Service", "Point of Sale (POS)"]
+  },
+  {
+    "id": 5,
+    "title": "Software Engineer",
+    "salary": "Average Salary $7.2K–$9.6K per year",
+    "status": "Job Openings",
+    "skills": ["Java", "C++", "Software Development", "Agile Methodologies", "Version Control (Git)"]
+  },
+  {
+    "id": 6,
+    "title": "App Developer",
+    "salary": "Average Salary $6K–$8.4K per year",
+    "status": "Job Openings",
+    "skills": ["React Native", "Flutter", "Java", "Swift", "API Integration"]
+  },
+  {
+    "id": 7,
+    "title": "UI/UX Designer",
+    "salary": "Average Salary $7.2K–$9K per year",
+    "status": "Job Openings",
+    "skills": ["Adobe XD", "Figma", "Wireframing", "User Research", "UI Design Principles"]
+  },
+  {
+    "id": 8,
+    "title": "Web Developer",
+    "salary": "Average Salary $4.8K–$6K per year",
+    "status": "Job Openings",
+    "skills": ["HTML", "CSS", "JavaScript", "React.js", "Responsive Design"]
+  },
+  {
+    "id": 9,
+    "title": "Full Stack Developer",
+    "salary": "Average Salary $6.6K–$7.8K per year",
+    "status": "Job Openings",
+    "skills": ["React.js", "Node.js", "MongoDB", "Express.js", "REST APIs"]
+  }
+]
