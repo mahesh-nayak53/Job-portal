@@ -24,6 +24,7 @@ A full-featured Job Portal website that allows companies to post jobs and candid
 ## 📁 Folder Structure
 
 jobportal/
+
 ├── client/ # React frontend
 
 ├── server/ # Node.js backend
@@ -37,15 +38,21 @@ jobportal/
 
 
 #Start Frontend
+
 cd JobSpring
+
 npm install
+
 npm run dev
 
 
 
 #Start Backend
+
 cd JobSpring-server
+
 npm install
+
 npm start
 
 
