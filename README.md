@@ -25,9 +25,13 @@ A full-featured Job Portal website that allows companies to post jobs and candid
 
 jobportal/
 ├── client/ # React frontend
+
 ├── server/ # Node.js backend
+
 ├── README.md
+
 ├── .gitignore
+
 ├── package.json
 
 
