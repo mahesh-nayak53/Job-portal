@@ -37,23 +37,23 @@ jobportal/
 
 
 
-#Start Frontend
+**Start Frontend**
 
-cd JobSpring
+- cd JobSpring
 
-npm install
+- npm install
 
-npm run dev
+- npm run dev
 
 
 
-#Start Backend
+**Start Backend**
 
-cd JobSpring-server
+- cd JobSpring-server
 
-npm install
+- npm install
 
-npm start
+- npm start
 
 
 ## 🙋‍♂️ Author
