@@ -6,7 +6,7 @@ A full-featured Job Portal website that allows companies to post jobs and candid
 
 - Recruiter and Candidate roles
 - Job posting and listing
-- Filter jobs by title, location, skills
+- Filter jobs by title, location, skills,salary
 - User authentication (Signup/Login)
 - Resume upload
 - Apply to jobs
